@@ -1,0 +1,25 @@
+name: Generate Statistics
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"  # Haftalık olarak çalıştırılacak (Pazar günleri saat 00:00'da)
+
+jobs:
+  generate_statistics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      - name: Install dependencies
+        run: |
+          npm install -g github-org-stats-generator  # Örnek bir paket kullanıyorum, gerçek betiği kendinize göre ayarlayın
+        
+      - name: Generate Statistics
+        run: |
+          github-org-stats-generator <organization_name> > statistics.md  # Betik, istatistikleri bir Markdown dosyasına yazar
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update statistics
