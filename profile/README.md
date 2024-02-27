@@ -1,8 +1,8 @@
-## FmgLib: Empowering .NET Development 
+# FmgLib: Empowering .NET Development 
 
 **FmgLib is a dynamic organization dedicated to enhancing the .NET ecosystem through the development and distribution of high-quality, free libraries. With a focus on simplicity, performance, and versatility, FmgLib's libraries aim to streamline development workflows and empower developers to create robust applications across various domains.**
 
-![FmgLib](https://github.com/FmgLib/.github/assets/73774639/96068aca-4ce0-4f0f-adbb-f2090742520e)
+<!-- ![FmgLib](https://github.com/FmgLib/.github/assets/73774639/96068aca-4ce0-4f0f-adbb-f2090742520e) -->
 
 ### Free .NET Libraries by FmgLib
 
