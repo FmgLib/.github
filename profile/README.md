@@ -27,6 +27,7 @@
 | `FmgLib.MauiMarkup.SimpleToolkit` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.SimpleToolkit?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.SimpleToolkit/) |
 | `FmgLib.MauiMarkup.Maps` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.Maps?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.Maps/) |
 | `FmgLib.MauiMarkup.ZXing` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.ZXing?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.ZXing/) |
+| `FmgLib.MauiMarkup.DataGrid` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.DataGrid?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.DataGrid/) |
 
 
 ### Free .NET Project Templates by FmgLib
