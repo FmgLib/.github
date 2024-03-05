@@ -21,8 +21,8 @@
 | `FmgLib.MauiMarkup.Core` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.Core?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.Core/) |
 | `FmgLib.MauiMarkup.Views` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.Views?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.Views/) |
 | `FmgLib.LocalizationMaui` | [![NuGet](https://buildstats.info/nuget/FmgLib.LocalizationMaui?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.LocalizationMaui/) |
-| `FmgLib.MauiMarkup.MediaElements` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.MediaElements?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.MediaElements/) |
 | `FmgLib.MauiMarkup.UraniumUI` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.UraniumUI?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.UraniumUI/) |
+| `FmgLib.MauiMarkup.MediaElements` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.MediaElements?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.MediaElements/) |
 | `FmgLib.MauiMarkup.SkiaSharp` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.SkiaSharp?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.SkiaSharp/) |
 | `FmgLib.MauiMarkup.SimpleToolkit` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.SimpleToolkit?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.SimpleToolkit/) |
 | `FmgLib.MauiMarkup.Maps` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.Maps?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.Maps/) |
