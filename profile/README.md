@@ -16,9 +16,9 @@
 | `FmgLib.MauiMarkup` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup/) |
 | `FmgLib.Orm.DbHelper.SqlServer` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.DbHelper.SqlServer?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.SqlServer/) |
 | `FmgLib.Orm.DbHelper.Oracle` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.DbHelper.Oracle?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.Oracle/) |
-| `FmgLib.Localization` | [![NuGet](https://buildstats.info/nuget/FmgLib.Localization?includePreReleases=false)](https://www.nuget.org/packages/FmgLib.Localization/) |
 | `FmgLib.MauiMarkup.Core` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.Core?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.Core/) |
 | `FmgLib.HttpClientHelper` | [![NuGet](https://buildstats.info/nuget/FmgLib.HttpClientHelper?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.HttpClientHelper/) |
+| `FmgLib.Localization` | [![NuGet](https://buildstats.info/nuget/FmgLib.Localization?includePreReleases=false)](https://www.nuget.org/packages/FmgLib.Localization/) |
 | `FmgLib.MauiMarkup.Views` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.Views?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.Views/) |
 | `FmgLib.LocalizationMaui` | [![NuGet](https://buildstats.info/nuget/FmgLib.LocalizationMaui?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.LocalizationMaui/) |
 | `FmgLib.MauiMarkup.UraniumUI` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.UraniumUI?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.UraniumUI/) |
