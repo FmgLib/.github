@@ -10,10 +10,10 @@
 |--------------|------|
 | `FmgLib.Orm.DbHelper` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.DbHelper?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper/) |
 | `FmgLib.Orm.Common` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.Common?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.Common/) |
+| `FmgLib.MauiMarkup` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup/) |
 | `FmgLib.Orm.DbHelper.MySql` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.DbHelper.MySql?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.MySql/) |
 | `FmgLib.Orm.DbHelper.SQLite` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.DbHelper.SQLite?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.SQLite/) |
 | `FmgLib.Orm.DbHelper.PostgreSql` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.DbHelper.PostgreSql?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.PostgreSql/) |
-| `FmgLib.MauiMarkup` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup/) |
 | `FmgLib.Orm.DbHelper.SqlServer` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.DbHelper.SqlServer?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.SqlServer/) |
 | `FmgLib.Orm.DbHelper.Oracle` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.DbHelper.Oracle?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.Oracle/) |
 | `FmgLib.MauiMarkup.Core` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.Core?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.Core/) |
