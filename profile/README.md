@@ -21,13 +21,13 @@
 | `FmgLib.Localization` | [![NuGet](https://buildstats.info/nuget/FmgLib.Localization?includePreReleases=false)](https://www.nuget.org/packages/FmgLib.Localization/) |
 | `FmgLib.MauiMarkup.Views` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.Views?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.Views/) |
 | `FmgLib.LocalizationMaui` | [![NuGet](https://buildstats.info/nuget/FmgLib.LocalizationMaui?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.LocalizationMaui/) |
-| `FmgLib.MauiMarkup.UraniumUI` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.UraniumUI?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.UraniumUI/) |
 | `FmgLib.MauiMarkup.Maps` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.Maps?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.Maps/) |
 | `FmgLib.MauiMarkup.SkiaSharp` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.SkiaSharp?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.SkiaSharp/) |
+| `FmgLib.MauiMarkup.UraniumUI` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.UraniumUI?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.UraniumUI/) |
 | `FmgLib.MauiMarkup.MediaElements` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.MediaElements?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.MediaElements/) |
+| `FmgLib.MauiMarkup.DataGrid` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.DataGrid?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.DataGrid/) |
 | `FmgLib.MauiMarkup.ZXing` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.ZXing?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.ZXing/) |
 | `FmgLib.MauiMarkup.SimpleToolkit` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.SimpleToolkit?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.SimpleToolkit/) |
-| `FmgLib.MauiMarkup.DataGrid` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.DataGrid?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.DataGrid/) |
 
 
 ### Free .NET Project Templates by FmgLib
