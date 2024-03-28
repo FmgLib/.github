@@ -11,6 +11,7 @@
 | `FmgLib.Orm.DbHelper` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.DbHelper?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper/) |
 | `FmgLib.Orm.Common` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.Common?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.Common/) |
 | `FmgLib.MauiMarkup` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup/) |
+| `FmgLib.Cryption` | [![NuGet](https://buildstats.info/nuget/FmgLib.Cryption?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Cryption/) |
 | `FmgLib.Orm.DbHelper.MySql` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.DbHelper.MySql?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.MySql/) |
 | `FmgLib.Orm.DbHelper.SQLite` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.DbHelper.SQLite?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.SQLite/) |
 | `FmgLib.Orm.DbHelper.PostgreSql` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.DbHelper.PostgreSql?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.PostgreSql/) |
