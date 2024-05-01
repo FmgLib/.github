@@ -22,6 +22,7 @@
 | `FmgLib.Localization` | [![NuGet](https://buildstats.info/nuget/FmgLib.Localization?includePreReleases=false)](https://www.nuget.org/packages/FmgLib.Localization/) |
 | `FmgLib.LocalizationMaui` | [![NuGet](https://buildstats.info/nuget/FmgLib.LocalizationMaui?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.LocalizationMaui/) |
 | `FmgLib.MauiMarkup.Generator` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.Generator?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.Generator/) |
+| `FmgLib.MauiMarkup.Template` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.Template?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.Template/) |
 
 
 ### Free .NET Project Templates by FmgLib
