@@ -19,8 +19,8 @@
 | `FmgLib.Orm.DbHelper.Oracle` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.DbHelper.Oracle?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.Oracle/) |
 | `FmgLib.HttpClientHelper` | [![NuGet](https://buildstats.info/nuget/FmgLib.HttpClientHelper?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.HttpClientHelper/) |
 | `FmgLib.Localization` | [![NuGet](https://buildstats.info/nuget/FmgLib.Localization?includePreReleases=false)](https://www.nuget.org/packages/FmgLib.Localization/) |
-| `FmgLib.LocalizationMaui` | [![NuGet](https://buildstats.info/nuget/FmgLib.LocalizationMaui?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.LocalizationMaui/) |
 | `FmgLib.MauiMarkup.Template` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.Template?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.Template/) |
+| `FmgLib.LocalizationMaui` | [![NuGet](https://buildstats.info/nuget/FmgLib.LocalizationMaui?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.LocalizationMaui/) |
 
 
 ### Free .NET Project Templates by FmgLib
