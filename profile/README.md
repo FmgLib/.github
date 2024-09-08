@@ -8,19 +8,19 @@
 
 | NuGet Package | Link |
 |--------------|------|
-| `FmgLib.Orm.DbHelper` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.DbHelper?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper/) |
-| `FmgLib.MauiMarkup` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup/) |
-| `FmgLib.Orm.Common` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.Common?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.Common/) |
-| `FmgLib.Cryption` | [![NuGet](https://buildstats.info/nuget/FmgLib.Cryption?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Cryption/) |
-| `FmgLib.Orm.DbHelper.MySql` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.DbHelper.MySql?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.MySql/) |
-| `FmgLib.Orm.DbHelper.SQLite` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.DbHelper.SQLite?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.SQLite/) |
-| `FmgLib.Orm.DbHelper.PostgreSql` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.DbHelper.PostgreSql?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.PostgreSql/) |
-| `FmgLib.Orm.DbHelper.SqlServer` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.DbHelper.SqlServer?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.SqlServer/) |
-| `FmgLib.Orm.DbHelper.Oracle` | [![NuGet](https://buildstats.info/nuget/FmgLib.Orm.DbHelper.Oracle?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.Oracle/) |
-| `FmgLib.MauiMarkup.Template` | [![NuGet](https://buildstats.info/nuget/FmgLib.MauiMarkup.Template?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.Template/) |
-| `FmgLib.HttpClientHelper` | [![NuGet](https://buildstats.info/nuget/FmgLib.HttpClientHelper?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.HttpClientHelper/) |
-| `FmgLib.Localization` | [![NuGet](https://buildstats.info/nuget/FmgLib.Localization?includePreReleases=false)](https://www.nuget.org/packages/FmgLib.Localization/) |
-| `FmgLib.LocalizationMaui` | [![NuGet](https://buildstats.info/nuget/FmgLib.LocalizationMaui?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.LocalizationMaui/) |
+| `FmgLib.Orm.DbHelper` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.Orm.DbHelper?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.Orm.DbHelper.svg) |
+| `FmgLib.MauiMarkup` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.MauiMarkup?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.MauiMarkup.svg) |
+| `FmgLib.Orm.Common` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.Orm.Common?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.Common/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.Orm.Common.svg) |
+| `FmgLib.Cryption` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.Cryption?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Cryption/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.Cryption.svg) |
+| `FmgLib.Orm.DbHelper.MySql` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.Orm.DbHelper.MySql?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.MySql/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.Orm.DbHelper.MySql.svg) |
+| `FmgLib.Orm.DbHelper.SQLite` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.Orm.DbHelper.SQLite?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.SQLite/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.Orm.DbHelper.SQLite.svg) |
+| `FmgLib.Orm.DbHelper.PostgreSql` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.Orm.DbHelper.PostgreSql?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.PostgreSql/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.Orm.DbHelper.PostgreSql.svg) |
+| `FmgLib.Orm.DbHelper.SqlServer` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.Orm.DbHelper.SqlServer?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.SqlServer/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.Orm.DbHelper.SqlServer.svg) |
+| `FmgLib.Orm.DbHelper.Oracle` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.Orm.DbHelper.Oracle?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.Oracle/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.Orm.DbHelper.Oracle.svg) |
+| `FmgLib.MauiMarkup.Template` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.MauiMarkup.Template?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.Template/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.MauiMarkup.Template.svg) |
+| `FmgLib.HttpClientHelper` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.HttpClientHelper?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.HttpClientHelper/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.HttpClientHelper.svg) |
+| `FmgLib.Localization` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.Localization?includePreReleases=false)](https://www.nuget.org/packages/FmgLib.Localization/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.Localization.svg) |
+| `FmgLib.LocalizationMaui` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.LocalizationMaui?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.LocalizationMaui/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.LocalizationMaui.svg) |
 
 
 ### Free .NET Project Templates by FmgLib
